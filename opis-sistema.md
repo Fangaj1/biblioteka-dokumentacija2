@@ -12,3 +12,4 @@ evidentira posudjivanje i povrat knjiga
 - Clan moze pretrazivati knjige po autoru i nazivu
 - Moze pristupati popisu pozajmica
 - Bibliotekar moze evidentirati pozajmice
+- Clan moze rezervisati knjige koje su nedostupne
