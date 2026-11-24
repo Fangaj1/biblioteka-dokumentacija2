@@ -13,4 +13,4 @@ evidentira posudjivanje i povrat knjiga
 - Moze pristupati popisu pozajmica
 - Bibliotekar moze evidentirati pozajmice
 - Clan moze rezervisati knjige koje su nedostupne
-- Clan moze produziti 2 dana
+- Clan moze produziti 2 danaa
