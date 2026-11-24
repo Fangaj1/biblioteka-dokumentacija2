@@ -1,2 +1,3 @@
 - Clan biblioteke dolazi po knjigu
 - Predaje karticu
+- Ispravljene su greske
